@@ -170,9 +170,4 @@ UZENCE-COMPONENTS/
 
 ----------
 
-## Screenshots / GIFs
-
-![datatable](public/datatable.png)
-![inputfield1](public/inputfield1.png)
-![inputfield](public/datatable.png)
 
